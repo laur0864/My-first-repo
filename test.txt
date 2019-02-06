@@ -1,4 +1,4 @@
 Hello Github!
 
 
-Test.
+Test of editing.
